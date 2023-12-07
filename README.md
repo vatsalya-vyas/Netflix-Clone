@@ -1,6 +1,5 @@
 # Netflix Clone
 
-[View](https://vatsalya-vyas.github.io/netflix-clone/)
 ## Overview
 
 This project is a simple Netflix clone created using HTML and CSS. It mimics the basic layout and styling of the Netflix website, allowing users to get a feel for the familiar Netflix interface.
