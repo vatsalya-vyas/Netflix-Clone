@@ -8,7 +8,7 @@ This project is a simple Netflix clone created using HTML and CSS. It mimics the
 - Movie thumbnails: Displays a grid of movie thumbnails with a hover effect for interaction.
 - Navigation bar: Replicates the Netflix navigation bar for easy navigation.
 
-## Screenshots
+## Video
 
 https://github.com/vatsalya-vyas/Netflix-Clone/assets/140804211/579cf693-a81e-4fc5-b7c3-551db365aa5e
 
